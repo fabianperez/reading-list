@@ -2,7 +2,7 @@
 
 Kind of.
 
-If you’re like me, you dislike Safari but love Safari’s Reading List. I use Chrome on my desktop and find all kinds of things I want to look at later (usually on my phone), so I built something silly: a small automation workflow that can take whatever page you’re looking at in Chrome, open Safari with that URL, add to Reading List, push a notification, and quit. I’ve hooked it up to a global system keyboard shortcut (⌘ + Shift + E) so syncing pages to Reading List is easy.
+If you’re like me, you dislike Safari but love Safari’s Reading List. I use Chrome on my desktop and find all kinds of things I want to look at later, but I do most of my reading on my iOS device in mobile Safari. This is a small automation workflow that can take whatever page you’re looking at in Chrome, open Safari with that URL, add to Reading List, push a notification, and quit. It's silly, but it works. I’ve hooked it up to a global system keyboard shortcut (⌘ + Shift + E) so syncing pages to Reading List is easy.
 
 ### Installation
 
