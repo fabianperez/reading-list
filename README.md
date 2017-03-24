@@ -6,7 +6,7 @@ If you’re like me, you dislike Safari but love Safari’s Reading List. I use 
 
 ### Installation
 
-1. **Add the service**: Download the workflow file first, then follow [this guide (link)](https://www.macosxautomation.com/automator/serviceinstall/index.html) to install it.
+1. **Add the service**: [Download the workflow file](https://github.com/fabianperez/reading-list/releases/download/1.0.0/add-to-reading-list.zip) first, then follow [this guide (link)](https://www.macosxautomation.com/automator/serviceinstall/index.html) to install it.
 1. **Register a shortcut**:
     1. Open System Preferences > Keyboard > Shortcuts
     1. Click the Services category on the left and scroll down to find “Add to Reading List” to set your shortcut.
